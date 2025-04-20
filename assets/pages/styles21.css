@@ -1,0 +1,28 @@
+body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    font-size: 18px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: black;
+}
