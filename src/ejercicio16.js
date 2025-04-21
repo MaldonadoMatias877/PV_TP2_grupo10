@@ -11,4 +11,4 @@ function sumarRango(inicio, fin) {
     return suma;
   }
   const resultado = sumarRango(1, 5);
-console.log("La suma del rango es:", resultado); // Debería mostrar: 15
+console.log("La suma del rango es:", resultado); // Debería mostrar 15
